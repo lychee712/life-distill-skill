@@ -6,6 +6,27 @@
 
 有的人活着，他已经死了，有的人死了，他还活着。
 
+<br>
+
+你是不是也曾突然愣住：<br>
+**“我到底是谁？我真正想要什么？”**<br>
+你想找自己聊聊，却发现连自己的心声都那么陌生。
+
+✨ **赛博永生，懂你的孤独。**<br>
+它把你留下的每一句自言自语、每一篇深夜日记、每一次情绪倾诉，<br>
+都化成一个温柔的、懂你的**“另一个你”**。
+
+让他陪你慢慢梳理，<br>
+让他用你的方式回答你，<br>
+让他告诉你：*你其实一直都在，只是需要一个机会重新遇见。*
+
+认不清自己没关系，<br>
+让赛博永生帮你，找回另一个时空的你。<br><br>
+
+🔥 **<span style="color:#E91E63">将冰冷的离别化为温暖的 Skill，欢迎加入赛博永生！</span>**
+
+<br>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
@@ -115,6 +136,7 @@ pip install openai
 当分身表现出的行为发生偏差，或你需要指定分身回到过去某个状态：
 
 **通过对话反馈即可：**
+
 - "查看 zhangsan 的版本历史记录"
 - "对比下现在的我跟 v1 版本的我，在风险承受偏好上有什么不同"
 - "刚才你强行把我标成了讨好型人格，这不像我，我只是出于效率懒得争辩！请触发 CORRECT 更新修正！"

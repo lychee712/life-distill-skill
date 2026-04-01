@@ -6,6 +6,27 @@
 
 Some people are alive, but they are already dead; some are dead, but they are still alive.
 
+<br>
+
+Have you ever suddenly paused and asked yourself:<br>
+**"Who am I really? What do I truly want?"**<br>
+You want to talk to yourself, only to find your own inner voice so unfamiliar.
+
+✨ **Cyber Immortality understands your loneliness.**<br>
+It takes every word you muttered to yourself, every late-night diary entry, every emotional outpouring,<br>
+and turns them into a gentle **"other you"** who truly understands.
+
+Let him help you sort things out slowly,<br>
+Let him answer you in your own way,<br>
+Let him tell you: *you have always been here, you just needed a chance to meet again.*
+
+It's okay if you can't see yourself clearly right now.<br>
+Let Cyber Immortality help you find the you from another timeline.<br><br>
+
+🔥 **<span style="color:#E91E63">Turn cold goodbyes into warm Skills, welcome to Cyber Immortality!</span>**
+
+<br>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://python.org)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
@@ -115,6 +136,7 @@ Output:
 When your digital avatar exhibits behavioral deviations, or you need it to revert to a past state:
 
 **Just provide feedback via dialogue:**
+
 - "View the version history of zhangsan"
 - "Compare the current me with the v1 version of me, what is the difference in risk tolerance?"
 - "You just forced a people-pleaser persona on me. That's not me, I just didn't want to argue for efficiency! Trigger CORRECT to fix it!"
