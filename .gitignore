@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Agent/Model outputs & Cache
+lives/
+data/
+output/
+downloads/
+tmp/
+temp/
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.suo
+
+# Project specific
+*.log
