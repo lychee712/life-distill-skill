@@ -1,3 +1,4 @@
+<div align="center">
 # 活了吗.skill (Life Distill Skill)
 
 [English](./README_EN.md) | [简体中文](./README.md)
@@ -36,6 +37,7 @@ Let Cyber Immortality help you find the you from another timeline.<br><br>
 
 [Quick Start](#quick-start) · [Usage](#usage) · [Examples](#examples) · [Features](#features)
 
+</div>
 ---
 
 ## Quick Start
