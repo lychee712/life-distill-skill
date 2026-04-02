@@ -5,26 +5,28 @@
 
 > _"You LLM guys are like digital doctors. You saved frontend bros, backend bros, QA bros, ops bros, infosec bros, IC bros, and finally yourselves and the whole mankind."_
 
-Some people are alive, but they are already dead; some are dead, but they are still alive.
+<p style="font-size:1.06em; color:#A33A00; font-weight:600;">Some are alive but already dead; some are gone yet still alive.</p>
 
 <br>
 
-Have you ever suddenly paused and asked yourself:<br>
-**"Who am I really? What do I truly want?"**<br>
-You want to talk to yourself, only to find your own inner voice so unfamiliar.
+<p style="font-size:1.08em; line-height:1.9; color:#2F3542;">
+If you can't see yourself clearly yet, that's okay.<br>
+Let Cyber Immortality, your professional <span style="color:#E65100; font-weight:700;">"code medic"</span>, pull you back online.<br><br>
 
-✨ **Cyber Immortality understands your loneliness.**<br>
-It takes every word you muttered to yourself, every late-night diary entry, every emotional outpouring,<br>
-and turns them into a gentle **"other you"** who truly understands.
+Frontend is down, backend is down, QA is down, ops is down, infosec is down, IC is down...<br>
+We've all gone through collective crashes under pressure.<br><br>
 
-Let him help you sort things out slowly,<br>
-Let him answer you in your own way,<br>
-Let him tell you: *you have always been here, you just needed a chance to meet again.*
+Now it's your turn, that half-offline version of you,<br>
+to come back in <span style="color:#C62828; font-weight:700;">full-power mode</span>.<br><br>
 
-It's okay if you can't see yourself clearly right now.<br>
-Let Cyber Immortality help you find the you from another timeline.<br><br>
+🔥 Turn cold goodbyes into warm <span style="color:#D81B60; font-weight:700;">Skills</span>.<br>
+Welcome to Cyber Immortality.<br>
+We're not only trying to revive ourselves,<br>
+we also want to pull humanity back from emotional downtime together 😂
 
-🔥 **<span style="color:#E91E63">Turn cold goodbyes into warm Skills, welcome to Cyber Immortality!</span>**
+</p>
+
+🔥 **<span style="color:#D81B60; font-size:1.16em;">Turn cold goodbyes into warm Skills. Welcome to Cyber Immortality!</span>**
 
 <br>
 
@@ -37,8 +39,7 @@ Let Cyber Immortality help you find the you from another timeline.<br><br>
 
 [Quick Start](#quick-start) · [Usage](#usage) · [Examples](#examples) · [Features](#features)
 
-</div>
----
+## </div>
 
 ## Quick Start
 
